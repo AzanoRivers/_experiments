@@ -1,0 +1,9 @@
+# Dependencias principales
+Pillow==12.1.0
+python-dotenv==1.2.1
+PyMuPDF==1.26.7
+easyocr==1.7.2
+numpy==2.4.2
+
+# PyTorch con CUDA se instala por separado
+# Ver install.bat para instalación con GPU
